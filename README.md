@@ -15,31 +15,31 @@
 
 4. Nu är hela *sprajten* markerad och du kan nu flytta hela *sprajten* utan att den går sönder. Flytta pennan så att spetsen hamnar precis ovanför det ljusgrå korset. **Titta på bilderna så ser du hur du ska placera pennan ska placeras.**  
 
-![image alt text](bild-1.png)
+![image alt text](bild-2.jpeg)
 
-![image alt text](bild-2.jpeg) 
+![image alt text](bild-3.jpeg) 
 
 5. Skapa ett skript för pennan som säger:  
 
 * Starta när Start-flaggan klickas på  
 * För alltid gå till muspekaren
   
-![image alt text](bild-3.jpeg)
+![image alt text](bild-4.png)
 
 Nu vill du kunna använda *sprajten* som en riktig penna, där du kan styra med musen och rita genom att trycka ned musknappen. För att kunna göra det måste du lägga till ett *tillägg.* Det gör du genom att klicka längst ned till vänster på **Lägg till ett tillägg.**  
 
-![image alt text](bild-4.png)
+![image alt text](bild-5.jpeg)
 
 Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att göra med att kunna rita.  
 
-![image alt text](bild-5.jpeg)
+![image alt text](bild-6.png)
 
 6. Skapa ett skript som säger att när musknappen är nedtryckt ska pennan vara nere, annars ska pennan vara uppe. Lägg ett **KONTROLL-block** i ditt första skript, som säger att:  
 
 * **OM** musknappen **är nedtryckt** ska **penna** vara **ned.**  
 * **ANNARS** ska **penna** vara **upp.** 
 
-![image alt text](bild-6.png)
+![image alt text](bild-7.png)
 
 **Testa ditt projekt!** Klicka på START. Följer pennan muspekaren? Vad händer om du håller nere musknappen och flyttar musen? (Tänk inte på vilken färg pennan har, det kommer du fixa till senare!) 
 
