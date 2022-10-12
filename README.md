@@ -1,7 +1,10 @@
-# Ritprogram
+# Ritprogram del 1
 
-**Här kodar och skapar du ritprogrammet utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.
-Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till www.scratch.mit.edu.**
+![image alt text](bild-1.png)
+
+**Här kodar du Ritprogrammet Del 1 utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.
+
+**Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till www.scratch.mit.edu.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
