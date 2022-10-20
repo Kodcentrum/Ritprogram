@@ -1,62 +1,13 @@
-# Ritprogram del 1
+Skapa och programmera ett ritprogram på påsklovet. Du behöver inga förkunskaper - alla kan koda! 
 
-![image alt text](bild-1.png)
+Med en dator och programmering kan man göra mycket som att till exempel skapa konstverk! Under våra digitala sändningar på påsklovet har vi temat digital konst.   
 
-**Här kodar du Ritprogrammet Del 1 utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.**
+Vi visar hur du kan programmera ditt eget ritprogram med pennor som kan måla i regnbågens alla färger. Sändningen är uppdelad i tre delar där vi steg för steg visar hur du programmerar och bygger upp ditt ritprogram. Du ska därför helst vara med under alla tre delar, det kan vara svårt att hoppa in i del tre utan att ha varit med på de tidigare tillfällena.  
 
-**Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till www.scratch.mit.edu.**
+Varje video är ca 30-40 min lång och publiceras kl. 10.00. Efter varje tillfälle är vår chatt öppen från 10.30 i 30 minuter för att du ska kunna ställa frågor och få stöd från Kodcentrums pedagoger.   
 
-**Ok, då kör vi igång! Du börja så här:**
+Aktiviteten riktar sig till barn 9–13 år.  
 
-## 1: En penna som kan rita.
+För att göra projektet behöver du ha en dator eller en surfplatta och ett registrerat konto i Scratch. 
 
-1. Skapa ett nytt Scratch-projekt och ta bort katten. Välj en ny *sprajt*: Sök på *Pencil* och lägg till den. 
- 
-2. Gå till fliken *Klädslar*. Vi ska nu flytta pennans spets till *sprajtens centrum.* **Det är viktigt för att pennan ska kunna rita från spetsen.** Detta kan vara lite knepigt men du gör så här: 
- 
-3. Klicka på verktyget *"Välj"* som ser ut som en vit pil. Markera nu *sprajten* genom att klicka med muspekaren längst upp i vänstra hörnet på ritytan. Håll in knappen på muspekaren och dra ut en rektangel som *täcker hela sprajten* och släpp sedan knappen på muspekaren. 
-
-4. Nu är hela *sprajten* markerad och du kan nu flytta hela *sprajten* utan att den går sönder. Flytta pennan så att spetsen hamnar precis ovanför det ljusgrå korset. **Titta på bilderna så ser du hur du ska placera pennan ska placeras.**  
-
-
-![image alt text](bild-2.jpeg)
-
-
-![image alt text](bild-3.jpeg) 
-
-
-5. Skapa ett skript för pennan som säger:  
-
-* Starta när Start-flaggan klickas på  
-* För alltid gå till muspekaren
- 
- 
-![image alt text](bild-4.png)
-
-
-Nu vill du kunna använda *sprajten* som en riktig penna, där du kan styra med musen och rita genom att trycka ned musknappen. För att kunna göra det måste du lägga till ett *tillägg.* Det gör du genom att klicka längst ned till vänster på **Lägg till ett tillägg.**  
-
-
-![image alt text](bild-5.jpeg)
-
-
-Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att göra med att kunna rita.  
-
-
-![image alt text](bild-6.jpeg)
-
-
-6. Skapa ett skript som säger att när musknappen är nedtryckt ska pennan vara nere, annars ska pennan vara uppe. Lägg ett **KONTROLL-block** i ditt första skript, som säger att:  
-
-* **OM** musknappen **är nedtryckt** ska **penna** vara **ned.**  
-* **ANNARS** ska **penna** vara **upp.** 
-
-
-![image alt text](bild-7.png)
-
-
-**Testa ditt projekt!** Klicka på START. Följer pennan muspekaren? Vad händer om du håller nere musknappen och flyttar musen? (Tänk inte på vilken färg pennan har, det kommer du fixa till senare!) 
-
-**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
- 
-Detta var instruktionerna för **del 1 av Ritprogrammet.** Vi har nu skapat början till vårt ritprogram! Vi har nu en penna som vi kan rita med. Men vi vill ju kunna sudda och byta till fler färger? **Det ska vi fixa i del 2 av Ritprogrammet!**
+Videos och instruktioner hittar du längre ner på sidan. 
