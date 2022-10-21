@@ -16,14 +16,14 @@
 
 25. Ändra namn på *sprajten* till **"Regnbåge".**
 
-![bild-16.png]
+![image alt text](bild-16.png)
 
 26. Skapa ett *skript* för sprajten **"Regnbåge"** som säger:  
 
 * När denna **sprajt klickas på** 
 * **Skicka** meddelande **"regnbåge"**
 
-![bild-17.png]
+![image alt text](bild-17.png)
 
 Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regnbåge"**
 
@@ -40,7 +40,7 @@ Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regn
 
 29. Dra ut blocket **"Vänta i sekunder"** från kategori **Kontroll.** Placera blocket inuti i **"För alltid-loopen"** och under blocket **"Sätt pennans storlek till 5".**
 
-![bild-18.png]
+![image alt text](bild-18.png)
 
 ## 5: Skapa ett suddgummi
 
@@ -53,7 +53,7 @@ Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regn
 * Starta **när sprajten klickas på**
 * **Skicka** meddelandet **"sudd"**
 
-![bild-19.png]
+![image alt text](bild-19.png)
 
 32. Skapa ett nytt *skript* för sprajten **"Pencil"** som säger:
 
@@ -71,7 +71,7 @@ Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regn
 
 37. Ändra siffran i blocket **"Sätt pennans storlek 5",** från 5 till **50.**
 
-![bild-21.png]
+![image alt text](bild-21.png)
 
 ## 6: Kontrollera regnbågspennan 
 
@@ -91,11 +91,11 @@ Först så ska vi skapa en **variabel.** Du kan tänka att den kommer att funger
 
 43. Ändra siffran **50** och skriv med text **ja** där istället.
 
-![bild-22.png]
+![image alt text](bild-22.png)
 
 44. Från tema VARIABLER. Välj blocket **"Sätt min variabel till 0"** och placera blocket under varje *skript* för varje färg. Ändra siffran **0** och skriv med text **nej** där istället.
 
-![bild-23.png]
+![image alt text](bild-23.png)
 
 > **Testa ditt projekt!** Fungerar det nu? Men vad händer nu när du använder suddgummit och sedan trycker på regnbågsfärgen?
 
@@ -103,7 +103,7 @@ Anledningen till att inte fungerar är för att färgen börjar på vit och att 
 
 45. Från tema PENNA välj blocket. **"Sätt pennans färg till_".** Placera blocket under **"När jag tar emot regnbåge."** Ändra färgen och plocka upp en valfri färg på regnbågen.
 
-![bild-24.png]
+![image alt text](bild-24.png)
 
 **Färdig!**
 

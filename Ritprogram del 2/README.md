@@ -12,7 +12,7 @@
 
 7. Lägg till *sprajten* **Button5.**
 
-![bild-8.png]
+![image alt text](bild-8.png)
 
 8. Byt namn på *sprajten* till **"Radera".** Förminska den så att den inte tar för stor plats på scenen och placera knappen där du vill ha den, till exempel längst ner till vänster på scenen.
 
@@ -21,7 +21,7 @@
 * När denna **sprajt klickas på**
 * **Radera allt.**
 
-![bild-9.png]
+![image alt text](bild-9.png)
 
 > **Testa ditt projekt!** Klicka på START och rita något. Kan du sudda hela teckningen genom att klicka på *sprajten* **"Radera"?**
 
@@ -31,15 +31,15 @@
 
 10. Rita en *sprajt* som ser ut som en knapp genom att välja **"Måla".**
 
-![bild-10.png]
+![image alt text](bild-10.png)
 
 11. Klicka på **"Gör till bitmap"**
 
-![bild-11.png]
+![image alt text](bild-11.png)
 
 12. Välj en röd färg och verktyget **cirkel.** Dra sedan ut en lagom stor cirkel.
 
-![bild-12.png]
+![image alt text](bild-12.png)
 
 13. Placera cirkeln intill din **"Radera-knapp".** Längst ner på scenen.
 
@@ -50,7 +50,7 @@
 * Starta när **sprajten klickas på**  
 * **Skicka** meddelandet **"röd"**
 
-![bild-13.png]
+![image alt text](bild-13.png)
 
 Det är allt som knappen behöver göra! Själva jobbet med att byta färg görs av *sprajten* **"Pencil".**
 
@@ -62,7 +62,7 @@ Det är allt som knappen behöver göra! Själva jobbet med att byta färg görs
 * Sedan **sätt pennans färg till röd**
 * Sedan **sätt pennans storlek till 5** 
 
-![bild-14.png]
+![image alt text](bild-14.png)
 
 > **Tips:** Klicka på den färgade rutan i blocket sätt pennans färg till och klicka sedan på din röda knapp på scenen, så får du rätt färg att rita med.
 
@@ -82,7 +82,7 @@ Nu ska du få göra en till knapp för en ny färg, och *skript* som ändrar pen
 
 Ungefär så här borde ditt projekt se ut nu:
 
-![bild-15.png]
+![image alt text](bild-15.png)
 
 > **Testa ditt projekt!** Klicka på START och rita något. Klicka nu på de olika knapparna. Fungerar alla färgvalknappar? 
 
