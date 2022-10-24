@@ -6,7 +6,7 @@
 
 **Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
 
-[![image alt text](video_ritprogram_del1.png)](https://youtu.be/8krFrX0dsUk)
+[![image alt text](video_ritprogram_del1.png)](https://www.youtube.com/embed/8krFrX0dsUk)
 
 **I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
 
