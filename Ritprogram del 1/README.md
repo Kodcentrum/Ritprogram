@@ -6,9 +6,9 @@
 
 **Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
 
-[![image alt text](bild video ritprogram del1.png)](https://youtu.be/8krFrX0dsUk) 
+[![image alt text](video_ritprogram_del1.png)](https://youtu.be/8krFrX0dsUk)] 
 
-**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Scrolla dig igenom instruktionerna nedan steg för steg.**
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
@@ -31,8 +31,8 @@
 
 5. Skapa ett skript för pennan som säger:  
 
-* Starta när Start-flaggan klickas på  
-* För alltid gå till muspekaren
+* Starta när *Start-flaggan* klickas på  
+* **För alltid** gå till muspekaren
  
  
 ![image alt text](bild-4.png)
@@ -59,8 +59,8 @@ Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att g
 ![image alt text](bild-7.png)
 
 
-**Testa ditt projekt!** Klicka på START. Följer pennan muspekaren? Vad händer om du håller nere musknappen och flyttar musen? (Tänk inte på vilken färg pennan har, det kommer du fixa till senare!) 
+> **Testa ditt projekt!** Klicka på START. Följer pennan muspekaren? Vad händer om du håller nere musknappen och flyttar musen? (Tänk inte på vilken färg pennan har, det kommer du fixa till senare!) 
 
 **Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
  
-Detta var instruktionerna för **del 1 av Ritprogrammet.** Vi har nu skapat början till vårt ritprogram! Vi har nu en penna som vi kan rita med. Men vi vill ju kunna sudda och byta till fler färger? **Det ska vi fixa i del 2 av Ritprogrammet!**
+Detta var instruktionerna för **del 1 av Ritprogrammet.** Vi har nu skapat början till vårt ritprogram och vi har nu en penna som vi kan rita med. Men vi vill ju kunna sudda och byta till fler färger? **Det ska vi fixa i del 2 av Ritprogrammet!**

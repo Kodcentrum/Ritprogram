@@ -1,8 +1,14 @@
-# Ritprogram del 2 
+# Ritprogram del 2
 
-**Här kodar du Ritprogrammet Del 2 utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.**
+![image alt text](bild-1.png)
 
-**Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+**Här kodar du Ritprogrammet Del 2.**
+
+**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+
+[![image alt text](video_ritprogram_del2.png)](https://www.youtube.com/embed/rc-NLCQ_3HA)] 
+
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
@@ -66,7 +72,7 @@ Det är allt som knappen behöver göra! Själva jobbet med att byta färg görs
 
 > **Tips:** Klicka på den färgade rutan i blocket sätt pennans färg till och klicka sedan på din röda knapp på scenen, så får du rätt färg att rita med.
 
-**Klicka på START och rita något. Klicka nu på den röda knappen och rita igen. Ritar den i rött nu? Ritar den från pennspetsen?** 
+**Klicka på START och rita något. Klicka nu på den röda knappen och rita igen. Ritar pennan med röd färg nu? Ritar den från pennspetsen?** 
 
 Nu ska du få göra en till knapp för en ny färg, och *skript* som ändrar pennans färg när du klickar på knappen. Du kan göra flera knappar sen om du vill.
 

@@ -1,8 +1,14 @@
 # Ritprogram del 3
 
-**Här kodar du Ritprogrammet Del 3 utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.**
+![image alt text](bild-1.png)
 
-**Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+**Här kodar du Ritprogrammet Del 3.**
+
+**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+
+[![image alt text](video_ritprogram_del3.png)](https://www.youtube.com/embed/v3kRZ2XmTXw)] 
+
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
