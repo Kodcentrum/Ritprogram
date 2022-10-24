@@ -1,6 +1,6 @@
 # Ritprogram del 1
 
-![image alt text](bild-1.png)(https://scratch.mit.edu/projects/642137118/)
+![image alt text](bild-1.png)
 
 **Här kodar du Ritprogrammet Del 1.**
 

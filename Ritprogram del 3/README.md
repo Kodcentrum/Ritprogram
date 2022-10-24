@@ -2,8 +2,6 @@
 
 ## Här kodar du Ritprogrammet Del 3
 
-![image alt text](bild-1.png)(https://scratch.mit.edu/projects/642138911/)
-
 **Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
 
 [![image alt text](video_ritprogram_del3.png)](https://www.youtube.com/embed/v3kRZ2XmTXw)] 
