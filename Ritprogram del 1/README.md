@@ -2,21 +2,25 @@
 
 ![image alt text](bild-1.png)
 
-**Här kodar du Ritprogrammet Del 1 utifrån instruktionerna nedan. Scrolla dig genom denna guide, steg för steg.**
+**Här kodar du Ritprogrammet Del 1.**
 
-**Öppna även kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+
+[![image alt text](bild video ritprogram del1.png)](https://youtu.be/8krFrX0dsUk) 
+
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Scrolla dig igenom instruktionerna nedan steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
 ## 1: En penna som kan rita.
 
-1. Skapa ett nytt Scratch-projekt och ta bort katten. Välj en ny *sprajt*: Sök på *Pencil* och lägg till den. 
+1. Skapa ett nytt Scratch-projekt och ta bort katten. Välj en ny *sprajt*: Sök på *Pencil* och lägg till den.
  
-2. Gå till fliken *Klädslar*. Vi ska nu flytta pennans spets till *sprajtens centrum.* **Det är viktigt för att pennan ska kunna rita från spetsen.** Detta kan vara lite knepigt men du gör så här: 
+2. Gå till fliken *Klädslar*. Vi ska nu flytta pennans spets till *sprajtens centrum.* **Det är viktigt för att pennan ska kunna rita från spetsen.** Detta kan vara lite knepigt men du gör så här:
  
-3. Klicka på verktyget *"Välj"* som ser ut som en vit pil. Markera nu *sprajten* genom att klicka med muspekaren längst upp i vänstra hörnet på ritytan. Håll in knappen på muspekaren och dra ut en rektangel som *täcker hela sprajten* och släpp sedan knappen på muspekaren. 
+3. Klicka på verktyget *"Välj"* som ser ut som en vit pil. Markera nu *sprajten* genom att klicka med muspekaren längst upp i vänstra hörnet på ritytan. Håll in knappen på muspekaren och dra ut en rektangel som *täcker hela sprajten* och släpp sedan knappen på muspekaren.
 
-4. Nu är hela *sprajten* markerad och du kan nu flytta hela *sprajten* utan att den går sönder. Flytta pennan så att spetsen hamnar precis ovanför det ljusgrå korset. **Titta på bilderna så ser du hur du ska placera pennan ska placeras.**  
+4. Nu är hela *sprajten* markerad och du kan nu flytta hela *sprajten* utan att den går sönder. Flytta pennan så att spetsen hamnar precis ovanför det ljusgrå korset. **Titta på bilderna så ser du hur pennan ska placeras.**
 
 
 ![image alt text](bild-2.jpeg)
