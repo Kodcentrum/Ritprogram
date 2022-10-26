@@ -26,6 +26,8 @@
 
 ![image alt text](bild-3.jpeg)
 
+Klicka dig vidare till kapitel 2.
+
 ## 2. Börja koda pennan
 
 **Skapa ett skript för pennan som säger:**
@@ -43,6 +45,8 @@ Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att g
 
 ![image alt text](bild-6.jpeg)
 
+Klicka dig vidare till kapitel 3.
+
 ## 3. Få pennan att måla
 
 **Skapa ett skript som säger att när musknappen är nedtryckt ska pennan vara nere, annars ska pennan vara uppe. Lägg ett **KONTROLL-block** i ditt första skript, som säger att:**
@@ -54,6 +58,17 @@ Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att g
 
 > **Testa ditt projekt!** Klicka på START. Följer pennan muspekaren? Vad händer om du håller nere musknappen och flyttar musen? (Tänk inte på vilken färg pennan har, det kommer du fixa till senare!)
 
-**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
+## Grattis!
+**Du har slutfört “Ritprogrammet del 1”**
 
 Detta var instruktionerna för **del 1 av Ritprogrammet.** Vi har nu skapat början till vårt ritprogram och vi har nu en penna som vi kan rita med. Men vi vill ju kunna sudda och byta till fler färger? **Det ska vi fixa i del 2 av Ritprogrammet!**
+
+**Frågeställningar**
+* Vad är en sprajt?
+* Vad är en loop?
+* När kan det vara bra att använda en loop?
+* Vad gör ett villkor?
+
+>**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
+
+**Klicka på knappen här under för att gå vidare till nästa uppgift "Ritprogrammet del 2"**

@@ -95,8 +95,18 @@ Ungefär så här borde ditt projekt se ut nu:
 
 > **Testa ditt projekt!** Klicka på START och rita något. Klicka nu på de olika knapparna. Fungerar alla färgvalknappar?
 
-**Nu har du utökat ditt ritprogram med flera verktyg! Du har nu skapat en penna som kan byta till olika färger och du har programmerat en raderar knapp som gör att du kan börja om på ett nytt vitt papper.**
+## Grattis!
 
-**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
+**Du har slutfört “Ritprogrammet del 2”**
 
-I **del 3** av Ritprogrammet ska vi programmera så att pennan kan måla med regnbågsfärg och vi ska skapa ett suddgummi. Hur du gör ser du i nästa video och i nästa instruktion.
+Detta var instruktionerna för **del 2 av Ritprogrammet.** Nu har du utökat ditt ritprogram med flera verktyg! Du har nu skapat en penna som kan byta till olika färger och du har programmerat en raderar knapp som gör att du kan börja om på ett nytt vitt papper.
+
+I **del 3 av Ritprogrammet** ska vi programmera så att pennan kan måla med regnbågsfärg och vi ska skapa ett suddgummi.
+
+**Frågeställningar**
+* När kan det vara bra att använda "Skicka ett meddelande"?
+* Vad kan du göra under fliken "Klädslar"?
+
+>**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
+
+**Klicka på knappen här under för att gå vidare till nästa uppgift "Ritprogrammet del 3"**

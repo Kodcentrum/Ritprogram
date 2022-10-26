@@ -111,11 +111,19 @@ Anledningen till att inte fungerar är för att färgen börjar på vit och att 
 
 ![image alt text](bild-24.png)
 
-**Färdig!**
+> **Testa ditt projekt!** Fungerar det nu? Kan du byta färg genom att klicka på regnbågen?
 
-**Grattis, nu har du gjort klart uppgiften!**
+## Grattis!
 
-**Glöm inte att spara ditt projekt! Döp det gärna till uppgiftens namn så att du enkelt kan hitta den igen.**
+**Du har nu slutfört “Ritprogrammet del 3”**
+
+Nu har du kodat ett eget ritprogram där du kan skapa härlig digital konst med regnbågens alla färger! **Bra jobbat!**
+
+**Frågeställningar**
+* Vad är en variabel?
+* Hur fungerar blocket "Sätt pennans storlekt_"?
 
 > **Testa ditt projekt**
 Visa gärna någon det som du har gjort och låt dem testa. Tryck på DELA för att andra ska kunna hitta spelet på Scratch. Gå ut till projektsidan och låt någon annan testa ditt coola ritprogram!
+
+**Klicka på knappen här under för att koda vidare och hitta en ny utmaning**
