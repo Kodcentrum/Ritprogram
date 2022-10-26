@@ -1,12 +1,14 @@
 # Ritprogram del 3
 
-## Här kodar du Ritprogrammet Del 3
+<a href="https://scratch.mit.edu/projects/642138911/" target="_blank"> ![image alt text](bild-1.png)</a>
 
-**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+**Här kodar du Ritprogrammet Del 3.**
 
-[![image alt text](video_ritprogram_del3.png)](https://www.youtube.com/embed/v3kRZ2XmTXw)] 
+**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target=" blank">ww.scratch.mit.edu</a>**
 
-**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
+<a href="https://www.youtube.com/embed/v3kRZ2XmTXw" target="_blank"> ![image alt text](video_ritprogram_del3.png)</a>
+
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och klicka dig vidare igenom instruktionerna på Kodboken steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
@@ -24,7 +26,7 @@
 
 26. Skapa ett *skript* för sprajten **"Regnbåge"** som säger:  
 
-* När denna **sprajt klickas på** 
+* När denna **sprajt klickas på**
 * **Skicka** meddelande **"regnbåge"**
 
 ![image alt text](bild-17.png)
@@ -48,7 +50,7 @@ Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regn
 
 ## 5: Skapa ett suddgummi
 
-** Det är kul att kunna rita, men alla gör misstag och då kanske du vill kunna sudda? Nu ska du lägga till ett verktyg som ser ut att sudda, men som egentligen ritar med bakgrundsfärgen.**
+**Det är kul att kunna rita, men alla gör misstag och då kanske du vill kunna sudda? Nu ska du lägga till ett verktyg som ser ut att sudda, men som egentligen ritar med bakgrundsfärgen.**
 
 30. Välj en ny *sprajt* för suddgummi, till exempel *sprajten* **Button3.** Förminska den om det behövs och placera i knappraden. Ändra namnet till **"sudd".**
 
@@ -77,21 +79,21 @@ Nu ska du programmera vad pennan ska göra när den tar emot meddelandet **"regn
 
 ![image alt text](bild-21.png)
 
-## 6: Kontrollera regnbågspennan 
+## 6: Kontrollera regnbågspennan
 
-Nu när vi har gjort vårt suddgummi kommer vi att stöta på ett problem i vårt projekt - regnbågsfärgen vill måla hela tiden?! Hur får vi den att sluta och bara måla när vi trycker på regnbågsknappen? Jo, med hjälp av ett **villkor** och med en **variabel.** Vi behöver helt enkelt skapa en **regel** som talar om för vår penna när den får måla med regnbågsfärgen och när den inte ska göra det.
+**Nu när vi har gjort vårt suddgummi kommer vi att stöta på ett problem i vårt projekt - regnbågsfärgen vill måla hela tiden?! Hur får vi den att sluta och bara måla när vi trycker på regnbågsknappen? Jo, med hjälp av ett **villkor** och med en **variabel.** Vi behöver helt enkelt skapa en **regel** som talar om för vår penna när den får måla med regnbågsfärgen och när den inte ska göra det.**
 
 Först så ska vi skapa en **variabel.** Du kan tänka att den kommer att fungera lite som ett trafikljus för pennan som kommer att säga ja eller nej om pennan får måla.
 
 38. Klicka på *sprajten* **"Pencil".**
 
-39. Från tema VARIABLER. Välj blocket **"Sätt min variabel till 0"** och placera blocket under **"När jag tar emot meddelande regnbåge"** Se till att blocket är ovanför för alltid loopen. 
+39. Från tema VARIABLER. Välj blocket **"Sätt min variabel till 0"** och placera blocket under **"När jag tar emot meddelande regnbåge"** Se till att blocket är ovanför för alltid loopen.
 
-40. Från tema KONTROLL. Välj blocket **"Om_Då".** Placera blocket inuti **"För alltid-loopen"** och låt den "äta upp" övriga block. 
+40. Från tema KONTROLL. Välj blocket **"Om_Då".** Placera blocket inuti **"För alltid-loopen"** och låt den "äta upp" övriga block.
 
 41. Från tema OPERATORER. Välj blocket **"_=50".** Placera blocket i diamantformen i **"Om_Då-blocket".**
 
-42. Från tema VARIABLER. Välj blocket **"Regnbågsfärg".** Placera blocket i den tomma cirkeln i operator-blocket. 
+42. Från tema VARIABLER. Välj blocket **"Regnbågsfärg".** Placera blocket i den tomma cirkeln i operator-blocket.
 
 43. Ändra siffran **50** och skriv med text **ja** där istället.
 

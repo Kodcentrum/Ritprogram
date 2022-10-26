@@ -1,16 +1,18 @@
 # Ritprogram del 2
 
+<a href="https://scratch.mit.edu/projects/642137936/" target="_blank"> ![image alt text](bild-1.png)</a>
+
 **Här kodar du Ritprogrammet Del 2.**
 
-**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target="_blank">ww.scratch.mit.edu</a>**
+**Öppna kodarverktyget Scratch och logga in på ditt scratchkonto genom att gå till <a href="https://www.scratch.mit.edu" target=" blank">ww.scratch.mit.edu</a>**
 
-[![image alt text](video_ritprogram_del2.png)](https://www.youtube.com/embed/rc-NLCQ_3HA)
+<a href="https://www.youtube.com/embed/rc-NLCQ_3HA" target="_blank"> ![image alt text](video_ritprogram_del2.png)</a>
 
-**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och scrolla dig igenom instruktionerna nedan steg för steg.**
+**I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och klicka dig vidare igenom instruktionerna på Kodboken steg för steg.**
 
 **Ok, då kör vi igång! Du börja så här:**
 
-## 2: Radera allt
+## 2: En radera allt-knapp
 
 **Nu vill du lägga till en knapp som suddar hela teckningen. Här i exemplet används ett kryss, men du kan välja att göra en egen knapp.**
 
@@ -47,7 +49,7 @@
 
 13. Placera cirkeln intill din **"Radera-knapp".** Längst ner på scenen.
 
-14. Ändra namn på *sprajten* till **"Röd".**
+14. Ändra namn på *sprajten* till **"Röd"**
 
 15. Skapa ett *skript* för sprajten "röd" som säger:
 
@@ -58,20 +60,23 @@
 
 Det är allt som knappen behöver göra! Själva jobbet med att byta färg görs av *sprajten* **"Pencil".**
 
+## Koda pennan till att byta färg
+
 16. Klicka på *sprajten* **"Pencil".**
 
 17. Skapa nu ett nytt *skript* för sprajten **"Pencil"** som säger:
 
 * Starta när den **tar emot meddelandet "röd"**
 * Sedan **sätt pennans färg till röd**
-* Sedan **sätt pennans storlek till 5** 
+* Sedan **sätt pennans storlek till 5**
 
 ![image alt text](bild-14.png)
 
 > **Tips:** Klicka på den färgade rutan i blocket sätt pennans färg till och klicka sedan på din röda knapp på scenen, så får du rätt färg att rita med.
 
-**Klicka på START och rita något. Klicka nu på den röda knappen och rita igen. Ritar pennan med röd färg nu? Ritar den från pennspetsen?** 
+**Klicka på START och rita något. Klicka nu på den röda knappen och rita igen. Ritar pennan med röd färg nu? Ritar den från pennspetsen?**
 
+## Lägg till en ny färg
 Nu ska du få göra en till knapp för en ny färg, och *skript* som ändrar pennans färg när du klickar på knappen. Du kan göra flera knappar sen om du vill.
 
 18. Kopiera *sprajten* **"röd".** Om du tittar på *skript-fliken* ser du att även skriptet har kopierats.
@@ -88,7 +93,7 @@ Ungefär så här borde ditt projekt se ut nu:
 
 ![image alt text](bild-15.png)
 
-> **Testa ditt projekt!** Klicka på START och rita något. Klicka nu på de olika knapparna. Fungerar alla färgvalknappar? 
+> **Testa ditt projekt!** Klicka på START och rita något. Klicka nu på de olika knapparna. Fungerar alla färgvalknappar?
 
 **Nu har du utökat ditt ritprogram med flera verktyg! Du har nu skapat en penna som kan byta till olika färger och du har programmerat en raderar knapp som gör att du kan börja om på ett nytt vitt papper.**
 
