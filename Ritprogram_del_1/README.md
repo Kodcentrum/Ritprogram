@@ -10,8 +10,6 @@
 
 **I videon ovan guidar pedagoger från Kodcentrum dig igenom uppgiften. Titta på videon och klicka dig vidare igenom instruktionerna på Kodboken steg för steg.**
 
-**Ok, då kör vi igång! Du börja så här:**
-
 ## 1: Fixa sprite - En penna
 
 1. Skapa ett nytt Scratch-projekt och ta bort katten. Välj en ny *sprajt*: Sök på *Pencil* och lägg till den.
@@ -28,28 +26,28 @@
 
 Klicka dig vidare till kapitel 2.
 
-## 2. Börja koda pennan
+## 2: Börja koda pennan
 
-**Skapa ett skript för pennan som säger:**
+1. Skapa ett skript för pennan som säger:
 
 * Starta när *Start-flaggan* klickas på  
 * **För alltid** gå till muspekaren
 
 ![image alt text](bild-4.png)
 
-Nu vill du kunna använda *sprajten* som en riktig penna, där du kan styra med musen och rita genom att trycka ned musknappen. För att kunna göra det måste du lägga till ett *tillägg.* Det gör du genom att klicka längst ned till vänster på **Lägg till ett tillägg.**  
+2. Nu vill du kunna använda *sprajten* som en riktig penna, där du kan styra med musen och rita genom att trycka ned musknappen. För att kunna göra det måste du lägga till ett *tillägg.* Det gör du genom att klicka längst ned till vänster på **Lägg till ett tillägg.**  
 
 ![image alt text](bild-5.jpeg)
 
-Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att göra med att kunna rita.  
+3. Sedan kan du klicka på kategorin **Penna,** här finns alla block som har att göra med att kunna rita.  
 
 ![image alt text](bild-6.jpeg)
 
 Klicka dig vidare till kapitel 3.
 
-## 3. Få pennan att måla
+## 3: Få pennan att måla
 
-**Skapa ett skript som säger att när musknappen är nedtryckt ska pennan vara nere, annars ska pennan vara uppe. Lägg ett **KONTROLL-block** i ditt första skript, som säger att:**
+1. Skapa ett skript som säger att när musknappen är nedtryckt ska pennan vara nere, annars ska pennan vara uppe. Lägg ett **KONTROLL-block** i ditt första skript, som säger att:
 
 * **OM** musknappen **är nedtryckt** ska **penna** vara **ned.**  
 * **ANNARS** ska **penna** vara **upp.**
